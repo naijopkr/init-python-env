@@ -2,7 +2,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 echo "venv/
-__pycache__/
+**/__pycache__/
 build/
 dist/
 .vscode/
