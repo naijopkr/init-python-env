@@ -10,3 +10,7 @@ dist/
 
 echo "if __name__ == '__main__':
     print('Hello world')" > __main__.py
+
+git init
+git add .
+git commit -m 'initial commit'
